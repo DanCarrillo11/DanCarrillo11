@@ -1,4 +1,4 @@
-# Hi, I'm Daniel 👋
+
 
 Computer Engineering student at ULatina. I enjoy video games and building tools that make them easier to customize.
 
