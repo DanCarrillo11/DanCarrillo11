@@ -1,7 +1,3 @@
-
-
-Computer Engineering student at ULatina. I enjoy video games and building tools that make them easier to customize.
-
 ## My project
 
 **[UniversalSaveEditor](https://github.com/DanCarrillo11/UniversalSaveEditor)** — A unified save editor for PC games. Manage progress, edit in-game items, and adjust XP in one application.
