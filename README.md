@@ -4,8 +4,6 @@
 
 **Python desktop developer · Windows applications · automated testing**
 
-[English](#english) · [Español](#español)
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)](https://doc.qt.io/qtforpython-6/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/DanCarrillo11/UniversalSaveEditor/actions)
@@ -15,11 +13,11 @@
 
 ---
 
-## English
+## About me
 
 I build Python desktop software with an emphasis on clear interfaces, local data processing, safe file updates, and repeatable releases. My main public project is **UniversalSaveEditor**, a portable Windows application that brings multiple PC game save editors into one interface.
 
-### Technical focus
+## Technical focus
 
 | Area | Practical experience shown on GitHub |
 |---|---|
@@ -28,7 +26,7 @@ I build Python desktop software with an emphasis on clear interfaces, local data
 | Delivery | GitHub Actions, PyInstaller and versioned Windows release assets |
 | Data handling | Local binary and structured-file processing with explicit integrity checks |
 
-### Featured project
+## Featured project
 
 <table>
   <tr>
@@ -48,25 +46,6 @@ I build Python desktop software with an emphasis on clear interfaces, local data
 </table>
 
 Support varies by game and format. The project documents experimental and limited areas explicitly; no editor is currently claimed as full support.
-
----
-
-## Español
-
-Desarrollo software de escritorio con Python, con énfasis en interfaces claras, procesamiento local de datos, actualizaciones seguras de archivos y entregas reproducibles. Mi proyecto público principal es **UniversalSaveEditor**, una aplicación portátil para Windows que reúne editores de partidas de varios juegos de PC en una sola interfaz.
-
-### En qué trabajo
-
-- Aplicaciones de escritorio con **Python y PySide6/Qt**.
-- Pruebas automatizadas, validación y documentación de compatibilidad.
-- Empaquetado para Windows con **PyInstaller** y publicación mediante **GitHub Actions**.
-- Lectura y modificación local de archivos binarios y estructurados, con controles de integridad.
-
-### Proyecto destacado
-
-**[UniversalSaveEditor](https://github.com/DanCarrillo11/UniversalSaveEditor)** incluye un catálogo de 23 juegos, revisión de cambios antes de guardar, validaciones específicas por formato, pruebas automatizadas y versiones descargables para Windows.
-
-La compatibilidad depende del juego, la versión y el archivo. El repositorio distingue claramente las funciones disponibles, experimentales y limitadas, sin afirmar soporte completo.
 
 ---
 
