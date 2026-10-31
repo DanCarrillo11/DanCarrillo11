@@ -48,7 +48,7 @@ I build Python desktop applications with an emphasis on clear interfaces, review
   <tr>
     <td width="100">
       <a href="https://github.com/DanCarrillo11/AchievementDesk">
-        <img src="https://raw.githubusercontent.com/DanCarrillo11/AchievementDesk/main/assets/app.png" width="80" alt="Achievement Desk trophy icon">
+        <img src="https://raw.githubusercontent.com/DanCarrillo11/AchievementDesk/main/assets/logo-transparent.png" width="80" alt="Achievement Desk trophy icon">
       </a>
     </td>
     <td>
