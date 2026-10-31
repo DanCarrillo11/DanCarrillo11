@@ -9,24 +9,26 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/DanCarrillo11/UniversalSaveEditor/actions)
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://github.com/DanCarrillo11/UniversalSaveEditor/releases/latest)
 
+[UniversalSaveEditor](https://github.com/DanCarrillo11/UniversalSaveEditor) · [Achievement Desk](https://github.com/DanCarrillo11/AchievementDesk) · [Cisco credentials](#cisco-networking-academy-credentials)
+
 </div>
 
 ---
 
 ## About me
 
-I build Python desktop software with an emphasis on clear interfaces, local data processing, safe file updates, and repeatable releases. My main public project is **UniversalSaveEditor**, a portable Windows application that brings multiple PC game save editors into one interface.
+I build Python desktop applications with an emphasis on clear interfaces, reviewed changes, local data handling and repeatable releases. My featured projects are **UniversalSaveEditor**, for supported PC game save formats, and **Achievement Desk**, a desktop workspace for Steam achievements. Both are built with PySide6/Qt and distributed as Windows applications.
 
 ## Technical focus
 
 | Area | Practical experience shown on GitHub |
 |---|---|
 | Desktop development | Python, PySide6/Qt, application theming and keyboard-driven workflows |
-| Quality | Automated tests, validation, compatibility documentation and preservation checks |
-| Delivery | GitHub Actions, PyInstaller and versioned Windows release assets |
+| Quality | Automated tests, validation, account isolation, compatibility documentation and preservation checks |
+| Delivery | GitHub Actions, PyInstaller, Inno Setup, portable builds and Windows installers |
 | Data handling | Local binary and structured-file processing with explicit integrity checks |
 
-## Featured project
+## Featured projects
 
 <table>
   <tr>
@@ -43,9 +45,25 @@ I build Python desktop software with an emphasis on clear interfaces, local data
       <a href="https://github.com/DanCarrillo11/UniversalSaveEditor/tree/main/docs"><strong>Technical docs</strong></a>
     </td>
   </tr>
+  <tr>
+    <td width="100">
+      <a href="https://github.com/DanCarrillo11/AchievementDesk">
+        <img src="https://raw.githubusercontent.com/DanCarrillo11/AchievementDesk/main/assets/app.png" width="80" alt="Achievement Desk trophy icon">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/DanCarrillo11/AchievementDesk">Achievement Desk</a></h3>
+      A Windows desktop workspace for Steam achievements, built with Python and PySide6. It includes a searchable game library, reviewed achievement changes, draft undo, embedded details and Steam-reported completion. Available as a portable app or per-user installer.<br><br>
+      <a href="https://github.com/DanCarrillo11/AchievementDesk/releases/latest"><strong>Download</strong></a> ·
+      <a href="https://github.com/DanCarrillo11/AchievementDesk#features"><strong>Features</strong></a> ·
+      <a href="https://github.com/DanCarrillo11/AchievementDesk/tree/main/docs"><strong>Documentation</strong></a>
+    </td>
+  </tr>
 </table>
 
-Support varies by game and format. The project documents experimental and limited areas explicitly; no editor is currently claimed as full support.
+**UniversalSaveEditor:** Support varies by game and format. The project documents experimental and limited areas explicitly; no editor is currently claimed as full support.
+
+**Achievement Desk:** Compatibility evidence is recorded per game and account. Steam controls protected achievements and completion trophies.
 
 ---
 
