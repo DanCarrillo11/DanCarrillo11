@@ -9,7 +9,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/DanCarrillo11/UniversalSaveEditor/actions)
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://github.com/DanCarrillo11/UniversalSaveEditor/releases/latest)
 
-[UniversalSaveEditor](https://github.com/DanCarrillo11/UniversalSaveEditor) · [Achievement Desk](https://github.com/DanCarrillo11/AchievementDesk) · [Cisco credentials](#cisco-networking-academy-credentials)
+[UniversalSaveEditor](https://github.com/DanCarrillo11/UniversalSaveEditor) · [SteamAchievementManager](https://github.com/DanCarrillo11/SteamAchievementManager) · [Cisco credentials](#cisco-networking-academy-credentials)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## About me
 
-I build Python desktop applications with an emphasis on clear interfaces, reviewed changes, local data handling and repeatable releases. My featured projects are **UniversalSaveEditor**, for supported PC game save formats, and **Achievement Desk**, a desktop workspace for Steam achievements. Both are built with PySide6/Qt and distributed as Windows applications.
+I build Python desktop applications with an emphasis on clear interfaces, reviewed changes, local data handling and repeatable releases. My featured projects are **UniversalSaveEditor**, for supported PC game save formats, and **SteamAchievementManager**, a desktop workspace for Steam achievements. Both are built with PySide6/Qt and distributed as Windows applications.
 
 ## Technical focus
 
@@ -47,23 +47,23 @@ I build Python desktop applications with an emphasis on clear interfaces, review
   </tr>
   <tr>
     <td width="100">
-      <a href="https://github.com/DanCarrillo11/AchievementDesk">
-        <img src="https://raw.githubusercontent.com/DanCarrillo11/AchievementDesk/main/assets/logo-transparent.png" width="80" alt="Achievement Desk trophy icon">
+      <a href="https://github.com/DanCarrillo11/SteamAchievementManager">
+        <img src="https://raw.githubusercontent.com/DanCarrillo11/SteamAchievementManager/main/assets/logo-transparent.png" width="80" alt="SteamAchievementManager trophy icon">
       </a>
     </td>
     <td>
-      <h3><a href="https://github.com/DanCarrillo11/AchievementDesk">Achievement Desk</a></h3>
+      <h3><a href="https://github.com/DanCarrillo11/SteamAchievementManager">SteamAchievementManager</a></h3>
       A Windows desktop workspace for Steam achievements, built with Python and PySide6. It includes a searchable game library, reviewed achievement changes, draft undo, embedded details and Steam-reported completion. Available as a portable app or per-user installer.<br><br>
-      <a href="https://github.com/DanCarrillo11/AchievementDesk/releases/latest"><strong>Download</strong></a> ·
-      <a href="https://github.com/DanCarrillo11/AchievementDesk#features"><strong>Features</strong></a> ·
-      <a href="https://github.com/DanCarrillo11/AchievementDesk/tree/main/docs"><strong>Documentation</strong></a>
+      <a href="https://github.com/DanCarrillo11/SteamAchievementManager/releases/latest"><strong>Download</strong></a> ·
+      <a href="https://github.com/DanCarrillo11/SteamAchievementManager#features"><strong>Features</strong></a> ·
+      <a href="https://github.com/DanCarrillo11/SteamAchievementManager/tree/main/docs"><strong>Documentation</strong></a>
     </td>
   </tr>
 </table>
 
 **UniversalSaveEditor:** Support varies by game and format. The project documents experimental and limited areas explicitly; no editor is currently claimed as full support.
 
-**Achievement Desk:** Compatibility evidence is recorded per game and account. Steam controls protected achievements and completion trophies.
+**SteamAchievementManager:** Compatibility evidence is recorded per game and account. Steam controls protected achievements and completion trophies.
 
 ---
 
