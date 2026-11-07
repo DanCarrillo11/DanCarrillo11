@@ -19,15 +19,6 @@
 
 I build Python desktop applications with an emphasis on clear interfaces, reviewed changes, local data handling and repeatable releases. My featured projects are **UniversalSaveEditor**, for supported PC game save formats, and **SteamAchievementManager**, a desktop workspace for Steam achievements. Both are built with PySide6/Qt and distributed as Windows applications.
 
-## Technical focus
-
-| Area | Practical experience shown on GitHub |
-|---|---|
-| Desktop development | Python, PySide6/Qt, application theming and keyboard-driven workflows |
-| Quality | Automated tests, validation, account isolation, compatibility documentation and preservation checks |
-| Delivery | GitHub Actions, PyInstaller, Inno Setup, portable builds and Windows installers |
-| Data handling | Local binary and structured-file processing with explicit integrity checks |
-
 ## Featured projects
 
 <table>
@@ -64,6 +55,15 @@ I build Python desktop applications with an emphasis on clear interfaces, review
 **UniversalSaveEditor:** Support varies by game and format. The project documents experimental and limited areas explicitly; no editor is currently claimed as full support.
 
 **SteamAchievementManager:** Compatibility evidence is recorded per game and account. Steam controls protected achievements and completion trophies.
+
+## Technical focus
+
+| Area | Practical experience shown on GitHub |
+|---|---|
+| Desktop development | Python, PySide6/Qt, application theming and keyboard-driven workflows |
+| Quality | Automated tests, validation, account isolation, compatibility documentation and preservation checks |
+| Delivery | GitHub Actions, PyInstaller, Inno Setup, portable builds and Windows installers |
+| Data handling | Local binary and structured-file processing with explicit integrity checks |
 
 ---
 
