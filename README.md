@@ -9,7 +9,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/DanCarrillo11/UniversalSaveEditor/actions)
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://github.com/DanCarrillo11/UniversalSaveEditor/releases/latest)
 
-[UniversalSaveEditor](https://github.com/DanCarrillo11/UniversalSaveEditor) · [SteamAchievementManager](https://github.com/DanCarrillo11/SteamAchievementManager) · [Cisco credentials](#cisco-networking-academy-credentials)
+[UniversalSaveEditor](https://github.com/DanCarrillo11/UniversalSaveEditor) · [SteamAchievementManager](https://github.com/DanCarrillo11/SteamAchievementManager) · [Controller Lab](https://github.com/DanCarrillo11/ControllerLab) · [Cisco credentials](#cisco-networking-academy-credentials)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## About me
 
-I build Python desktop applications with an emphasis on clear interfaces, reviewed changes, local data handling and repeatable releases. My featured projects are **UniversalSaveEditor**, for supported PC game save formats, and **SteamAchievementManager**, a desktop workspace for Steam achievements. Both are built with PySide6/Qt and distributed as Windows applications.
+I build Python desktop applications with an emphasis on clear interfaces, local data handling and repeatable releases. My featured projects cover PC save editing, Steam achievement management and controller diagnostics. They use PySide6/Qt and are distributed as Windows applications.
 
 ## Featured projects
 
@@ -48,6 +48,24 @@ I build Python desktop applications with an emphasis on clear interfaces, review
       <a href="https://github.com/DanCarrillo11/SteamAchievementManager/releases/latest"><strong>Download</strong></a> ·
       <a href="https://github.com/DanCarrillo11/SteamAchievementManager#features"><strong>Features</strong></a> ·
       <a href="https://github.com/DanCarrillo11/SteamAchievementManager/tree/main/docs"><strong>Documentation</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="100">
+      <a href="https://github.com/DanCarrillo11/ControllerLab">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanCarrillo11/ControllerLab/main/assets/app.png">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanCarrillo11/ControllerLab/main/assets/app-dark.png">
+          <img src="https://raw.githubusercontent.com/DanCarrillo11/ControllerLab/main/assets/app-dark.png" width="80" alt="Controller Lab joystick icon">
+        </picture>
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/DanCarrillo11/ControllerLab">Controller Lab</a></h3>
+      A portable Windows workspace for testing gamepads, saving diagnostic reports, and configuring named remapping profiles. It can expose supported input as a virtual Xbox 360 or DualShock 4 controller. The current build is a release candidate.<br><br>
+      <a href="https://github.com/DanCarrillo11/ControllerLab/releases/tag/v0.9.0-rc.11"><strong>Portable RC11</strong></a> ·
+      <a href="https://github.com/DanCarrillo11/ControllerLab#controller-compatibility"><strong>Compatibility</strong></a> ·
+      <a href="https://github.com/DanCarrillo11/ControllerLab/blob/main/docs/EMULATION.md"><strong>Emulation guide</strong></a>
     </td>
   </tr>
 </table>
