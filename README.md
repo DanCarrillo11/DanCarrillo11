@@ -39,7 +39,7 @@ I build Python desktop applications with an emphasis on clear interfaces, local 
   <tr>
     <td width="100">
       <a href="https://github.com/DanCarrillo11/SteamAchievementManager">
-        <img src="https://raw.githubusercontent.com/DanCarrillo11/SteamAchievementManager/main/assets/logo-transparent.png" width="80" alt="SteamAchievementManager trophy icon">
+        <img src="https://raw.githubusercontent.com/DanCarrillo11/SteamAchievementManager/v1.3.1/assets/logo-transparent.png" width="80" alt="SteamAchievementManager trophy icon">
       </a>
     </td>
     <td>
