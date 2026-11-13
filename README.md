@@ -53,17 +53,13 @@ I build Python desktop applications with an emphasis on clear interfaces, local 
   <tr>
     <td width="100">
       <a href="https://github.com/DanCarrillo11/ControllerLab">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanCarrillo11/ControllerLab/main/assets/app.png">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanCarrillo11/ControllerLab/main/assets/app-dark.png">
-          <img src="https://raw.githubusercontent.com/DanCarrillo11/ControllerLab/main/assets/app-dark.png" width="80" alt="Controller Lab joystick icon">
-        </picture>
+        <img src="https://raw.githubusercontent.com/DanCarrillo11/ControllerLab/main/assets/app.png" width="80" alt="Controller Lab PlayStation controller icon">
       </a>
     </td>
     <td>
       <h3><a href="https://github.com/DanCarrillo11/ControllerLab">Controller Lab</a></h3>
       A portable Windows workspace for testing gamepads, saving diagnostic reports, and configuring named remapping profiles. It can expose supported input as a virtual Xbox 360 or DualShock 4 controller. The current build is a release candidate.<br><br>
-      <a href="https://github.com/DanCarrillo11/ControllerLab/releases/tag/v0.9.0-rc.11"><strong>Portable RC11</strong></a> ·
+      <a href="https://github.com/DanCarrillo11/ControllerLab/releases/tag/v0.9.0-rc.12"><strong>Portable RC12</strong></a> ·
       <a href="https://github.com/DanCarrillo11/ControllerLab#controller-compatibility"><strong>Compatibility</strong></a> ·
       <a href="https://github.com/DanCarrillo11/ControllerLab/blob/main/docs/EMULATION.md"><strong>Emulation guide</strong></a>
     </td>
